@@ -164,6 +164,6 @@ Ogo Chukwuemeka Okereke
 
 Data Analyst | Excel | SQL | Power BI | Business Intelligence
 
-LinkedIn:https://linkedin.com/ogochukwuemeka/
+LinkedIn:https://linkedin.com/in/ogochukwuemeka
 
 Portfolio: https://mikkymo.github.io/portfolio/
