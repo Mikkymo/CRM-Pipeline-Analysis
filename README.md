@@ -4,7 +4,16 @@
 
 This Power BI project models [Maven Analytics’ CRM Sales Opportunities sample](https://mavenanalytics.io/data-playground/crm-sales-opportunities), which represents a **fictitious** computer-hardware company, alongside account, product and sales-team data. The four source tables in this repository contain 8,800 opportunities, 85 accounts, 35 sales-team records and 7 products. The dashboard has executive, pipeline-health and customer-insight views.
 
-![Executive summary dashboard](images/executive-summary.png)
+## Dashboard screenshots
+
+Open the full-size screenshots from the Power BI report:
+
+- [Executive summary dashboard](images/executive-summary.png)
+- [Pipeline health dashboard](images/pipeline-health.png)
+- [Customer insights dashboard](images/customer-insights.png)
+- [Data model screenshot](images/data-model.png)
+
+![Original executive summary dashboard](images/executive-summary.png)
 
 ## Approach
 
